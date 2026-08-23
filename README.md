@@ -2,6 +2,23 @@
 An all mechanical, RX controlled mini robot trick dog whose main purpose is to u to controll it with a transmitter to see what cool tricks u can make it do.... (its purpose is not to walk in a straight line since then it would require code and wouldn't be fully mechanical anymore...)
 
 
+## BOM ---> 
+***Bill of Materials***
+
+| Product | Qty | Cost (USD) | Link |
+|---|---|---|---|
+| Foam Board | 1 | $6.81 | [Link](https://www.vortex-rc.com/product/fliteboard-500x200mm-10-sheet-pack/) |
+| Micro Servo Motors and Servo Horns | 4 | $4.32 | [Link](https://robocraze.com/products/sg90-micro-servo-motor?variant=40192525238425&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22271813913&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=22271815110&gbraid=0AAAAADgHQva_Qo8A4pLkZptHerf_WScvz&gclid=CjwKCAjwtKrUBhAhEiwAr77ZojVCp331I_ypjgmuD9O0__JeymslHjrWTy87iUjKKYJA32AnheeySxoCeXoQAvD_BwE) |
+| RC Receiver and Transmitter | 1 | $36.12 | [Link](https://robu.in/product/flysky-fs-i4x-2-4ghz-4ch-afhds-r-c-transmitter-fs-a6-receiver/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWf2mUnhl18WPOp58WiMXpWOr&gclid=CjwKCAjwtKrUBhAhEiwAr77ZohIvQZ-28d5BoixF96CEqayh-tNzzasdjKvtWNAwqVaLSBn_ugIw8xoCcgkQAvD_BwE) |
+| Y Servo Connectors | 2 | $1.36 | [Link](https://robu.in/product/1jr-male-2-futaba-female-y-type-servo-extension-wire300mm/?gad_source=1&gad_campaignid=20381096599&gbraid=0AAAAADvLFWdZATz-tFxJqbujzOGJdeePa&gclid=CjwKCAjwtKrUBhAhEiwAr77ZoqQcmqqfmMWKUyMxs40TAm68CnsbBhJhGnBC7thKI00k7duUQdFAZBoCrh0QAvD_BwE) |
+| Electrical Tape | 1 | $1.47 | [Link](https://robu.in/product/multicomp-pro-mp002145-tape-pvc-19mm-x-8m-red/?gad_source=1&gad_campaignid=20387462343&gbraid=0AAAAADvLFWcTMRAifsb4FUBKsJV1MoTJG&gclid=CjwKCAjwtKrUBhAhEiwAr77ZosJiGnElcoAYdXm-rtOW46qqh_RREzY86kztD-S0n3-0nB9qTRREmBoC8LAQAvD_BwE) |
+| Double-Sided Foam Tape | 1 | $0.23 | [Link](https://onlyscrews.in/products/double-side-foam-tape-22mm-x-2-5meters?currency=INR&country=IN&variant=51362144780601&stkn=6e84ebfba1b8&utm_campaign2=robotics_3d&gad_source=1&gad_campaignid=22618647593&gbraid=0AAAAA9sP2STKV3fefkmKdwlpTT1g3greH&gclid=CjwKCAjwtKrUBhAhEiwAr77Zon7VVxjQ--y0rPWz_qjLG19X0NG-_m-A2QjvEADcWVferhwLy6msshoCD3MQAvD_BwE) |
+| Hot Glue | 1 | $1.48 | [Link](https://www.amazon.in/MGR-Melt-Plastic-Small-Black/dp/B07N1TMTF2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A2MHXVB0JBYU9Q) |
+| LiPo Battery | 1 | $18.4 | [Link](http://robu.in/product/orange-2200mah-3s-30c60c-lithium-polymer-battery-pack-lipo/?gad_source=1&gad_campaignid=17427802559&gbraid=0AAAAADvLFWdjgjAWQUpBgB_tcSoG4QZNW&gclid=CjwKCAjwtKrUBhAhEiwAr77ZoiSrnS2j82mn1AgGGvwLWRxdOVmBfaMRZTdfnpXGyfwrGccy9eA-SxoCjrQQAvD_BwE) |
+| ESC with Built-in BEC | 1 | $3.42 | [Link](https://robu.in/product/30a-bldc-esc-electronic-speed-controller/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWf2mUnhl18WPOp58WiMXpWOr&gclid=CjwKCAjwtKrUBhAhEiwAr77ZonvD22w-dSWoeEJRttz1AdZ1-LuyZEwL9p-kz1SuXeFwK9j2x9miOBoCnfgQAvD_BwE) |
+
+**Total Estimated Cost: $87.93**
+
 ## My build Process and how u can replicate it (replicate it just how i built it and u can always change some things.) --->
 
 ## 1. Make the body
