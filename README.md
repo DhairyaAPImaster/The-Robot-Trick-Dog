@@ -62,7 +62,7 @@ Instead of controlling all four servos individually I connected the diagonal ser
 The servos on each diagonal need to move in opposite directions so when one leg moves one way the diagonal leg moves the other way. I forgot to take a photo of the actual Y connectors so the diagram shows the basic idea.
 
 <p>
-<img src="https://cdn.hackclub.com/01a00b4d-4788-70c8-97d0-586b3336caed/image.png" alt="Servo wiring diagram" width="25%">
+<img src="https://cdn.hackclub.com/01a00b4d-4788-70c8-97d0-586b3336caed/image.png" alt="Servo wiring diagram">
 <img src="https://cdn.hackclub.com/01a00b58-e4e6-7f0f-8a30-1c3f7306baaf/image.png" alt="Receiver wiring" width="25%">
 </p>
 
