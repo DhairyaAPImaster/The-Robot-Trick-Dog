@@ -71,8 +71,8 @@ The servos on each diagonal need to move in opposite directions so when one leg 
 The servo wires were around 6 to 7 inches long. Instead of cutting them I just looped the excess wire and secured it to the body. It isn't exactly the cleanest wiring ever but it works. Just make sure the wires stay away from the servo horns and legs.
 
 <p>
-<img src="https://github.com/user-attachments/assets/4d08f0ab-76e4-4dd3-8c3b-7d562e6f376e" alt="Wire management" width="25%">
-<img src="https://cdn.hackclub.com/01a00b4d-b05f-77c0-adba-6cc568e3b255/image.png" alt="More wire management" width="25%">
+<img src="https://github.com/user-attachments/assets/4d08f0ab-76e4-4dd3-8c3b-7d562e6f376e" alt="Wire management">
+
 </p>
 
 ## 5. Power the robot
